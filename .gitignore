@@ -17,3 +17,6 @@ yarn-error.log*
 # Build output
 # (Change this if you set a `distDir` in `next.config.js`)
 /.next
+
+# Misc
+.DS_Store # macOS specific
